@@ -1,7 +1,7 @@
 # Task2_Image_Forensics
 ## Detection and Localization of tampered images
-# Classification: Image Forgery Detection Using Deep Learning by Recompressing Images
-# Localization: Two-stream Encoder-Decoder Network for Localizing Image Forgeries
+## Classification: Image Forgery Detection Using Deep Learning by Recompressing Images
+## Localization: Two-stream Encoder-Decoder Network for Localizing Image Forgeries
 
 ![](images/System.PNG)
 
